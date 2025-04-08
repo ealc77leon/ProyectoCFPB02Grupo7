@@ -1,6 +1,6 @@
 INFORME DE AVANCE DEL PROYECTO
 Nombre del proyecto: Generador de Archivos de Vendedores, Productos y Ventas
-Fecha de entrega: Martes 08 de 2025
+Fecha de entrega: Martes 08 Abril de 2025
 
 Detalle del estado actual del proecto
 Funcionalidades completas:
